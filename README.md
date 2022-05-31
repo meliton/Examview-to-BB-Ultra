@@ -1,5 +1,5 @@
 # Examview-to-BB-Ultra
-Converts Examview v.6x exams into Blackboard Ultra exam pools.  
+Converts Examview version 6/7/8 exams into Blackboard Ultra exam pools.  
 
 
 ## How to Use
